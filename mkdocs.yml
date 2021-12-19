@@ -15,7 +15,7 @@ theme:
   features:
     - navigation.instant   # instant loading
                            # refer to https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#instant-loading
-    - navigation.indexes   # refer to https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#section-index-pages
+    # - navigation.indexes   # refer to https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#section-index-pages
     # - navigation.sections  # optional
                            # refer to https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections
     - navigation.tabs      # enable navigation tabs, recommended for large docs with several parts
@@ -74,7 +74,9 @@ plugins:
 # Page Tree
 nav:
   - 首页: index.html
-  - 博弈论: game-theory.md
+  - 博弈论:
+    - 博弈论基础: game-theory/game-theory.md
+    - 拍卖理论: game-theory/auction-theory.md
 
 # Customization
 # extra:
