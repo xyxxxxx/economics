@@ -77,6 +77,7 @@ nav:
   - 博弈论:
     - 博弈论基础: game-theory/game-theory.md
     - 拍卖理论: game-theory/auction-theory.md
+    - 投票理论: game-theory/electoral-theory.md
 
 # Customization
 # extra:
