@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://xyxxxxx.github.io/economics/index.html</loc>
+         <lastmod>2023-01-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://xyxxxxx.github.io/economics/game-theory/auction-theory.html</loc>
+         <lastmod>2023-01-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://xyxxxxx.github.io/economics/game-theory/electoral-theory.html</loc>
+         <lastmod>2023-01-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://xyxxxxx.github.io/economics/game-theory/game-theory.html</loc>
+         <lastmod>2023-01-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://xyxxxxx.github.io/economics/micro/micro.html</loc>
+         <lastmod>2023-01-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
